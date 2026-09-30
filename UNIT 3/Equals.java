@@ -1,6 +1,6 @@
 import java.net.URL;
 
-public class Comparing {
+public class Equals {
     public static void main(String[] args) throws Exception {
         URL url1 = new URL("http://www.ibiblio.org/nywc/");
         URL url2 = new URL("http://www.ibiblio.org/nywc/rw.html");
